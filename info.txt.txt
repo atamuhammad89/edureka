@@ -1,3 +1,0 @@
-this is my first push
-this is my 2nd push 
-new branch created named #3
